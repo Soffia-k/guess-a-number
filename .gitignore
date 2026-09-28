@@ -1,0 +1,12 @@
+# Binaries
+*.exe
+*.out
+*.o
+*.obj
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
